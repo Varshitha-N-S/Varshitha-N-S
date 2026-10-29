@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Varshitha 👋
 
-<!--
-**Varshitha-N-S/Varshitha-N-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer | Python, Django, Java | Building LLM applications (RAG, agents)
 
-Here are some ideas to get you started:
+## About me
+- 💻 Junior software developer moving into AI engineering
+- 🌱 Currently learning: FastAPI, LLM APIs, RAG, AI agents
+- 🎯 Looking for: AI Engineer / Applied AI Developer roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+**Languages:** Python, Java, HTML
+**Backend:** Django, (FastAPI - learning)
+**Databases:** SQL, (PostgreSQL - learning)
+**Tools:** Git, GitHub, Maven
+
+## Projects
+- **[Employee Management System](https://github.com/Varshitha-N-S/Employee-management-System)**: Django web app for managing employee records
+- **[AI Fitness Website](https://github.com/Varshitha-N-S/FSD-PROJECT)**: fitness site with AI features (upgrading with LLM-powered plans)
+
+## Connect with me
+- LinkedIn: <add your LinkedIn link>
+- Email: <add your email>
