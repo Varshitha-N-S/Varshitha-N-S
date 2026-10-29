@@ -18,5 +18,5 @@ Software Developer | Python, Django, Java | Building LLM applications (RAG, agen
 - **[AI Fitness Website](https://github.com/Varshitha-N-S/FSD-PROJECT)**: fitness site with AI features (upgrading with LLM-powered plans)
 
 ## Connect with me
-- LinkedIn: <add your LinkedIn link>
-- Email: <add your email>
+- LinkedIn: https://www.linkedin.com/in/varshitha-n-s/
+- Email: varshithans2004@gmail.com
