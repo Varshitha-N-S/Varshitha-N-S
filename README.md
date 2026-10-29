@@ -8,10 +8,10 @@ Software Developer | Python, Django, Java | Building LLM applications (RAG, agen
 - 🎯 Looking for: AI Engineer / Applied AI Developer roles
 
 ## Tech stack
-**Languages:** Python, Java, HTML
-**Backend:** Django, (FastAPI - learning)
-**Databases:** SQL, (PostgreSQL - learning)
-**Tools:** Git, GitHub, Maven
+-**Languages:** Python, Java, HTML
+-**Backend:** Django, (FastAPI - learning)
+-**Databases:** SQL, (PostgreSQL - learning)
+-**Tools:** Git, GitHub, Maven
 
 ## Projects
 - **[Employee Management System](https://github.com/Varshitha-N-S/Employee-management-System)**: Django web app for managing employee records
